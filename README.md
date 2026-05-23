@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gymnasium Analytics System
 ### A Full-Stack Analytics Engineering Portfolio Project
 
@@ -226,3 +227,7 @@ The pipeline runs 30+ automated checks before any data is written. If any check 
 - No gaps in the `dim_time` date spine
 - `churn_date` is null whenever `churned = False`
 - `tenure_days >= 0` in `member_lifetime_summary`
+=======
+# Gymnasium-Analytics-System
+This project is an end-to-end analytics engineering system built for a gymnasium context. It covers the full data stack: synthetic data generation, relational schema design, ETL pipeline, dimensional modeling, KPI engineering via SQL views, and an interactive Streamlit dashboard.
+>>>>>>> 9074f64c6073b597786f23da333f91ef7b5d80e7
